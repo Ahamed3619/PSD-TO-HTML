@@ -1,0 +1,630 @@
+<!--tiny header start-->
+	  <header class="tiny-header">
+	   <div class="container">
+			<div class="top-header">
+				<div class="phone-img">
+				  <img src="img/phone.png" alter="phone"/>
+				</div>
+				<div class="phone-title">
+					<p class="call-us"> Enquiries?  Call us on: </p>
+					<p class="phone-number"> 01273 569650 </p>
+			
+				</div>
+			</div>
+		</div>
+	  </header>
+<!--tiny header end-->
+
+<!--main menu start-->
+   <section id="menu">
+	  
+		<nav class="navbar navbar-default">
+		  <div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			 
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			  <ul class="nav navbar-nav navbar-right">
+				<hr>
+				<li ><a href="#"class="actives" style="color:#FFFDFF">Home</a></li>
+				<li><a href="#" style="color:#FFFDFF"> About Us</a></li>
+				<li><a href="#" style="color:#FFFDFF"> Our Services</a></li>
+				<li class="dropdown">
+				  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:#FFFDFF; background-color:#443E40">Our Team <span class="caret"style="color:red"></span></a>
+				  <ul class="dropdown-menu">
+					<li><a href="#"style="color:#FFFDFF" onmouseover="this.style.background='#B92034';" onmouseout="this.style.background='none';">Our Directors</a></li>
+					<li><a href="#"style="color:#FFFDFF" onmouseover="this.style.background='#B92034';" onmouseout="this.style.background='none';">Our Costs Dreafting Team</a></li>
+					<li><a href="#" style="color:#FFFDFF" onmouseover="this.style.background='#B92034';" onmouseout="this.style.background='none';">Our Supporting Team</a></li>
+				  </ul>
+				</li>
+				<li><a href="#" style="color:#FFFDFF">Testimonials</a></li>
+				<li><a href="#" style="color:#FFFDFF" class="last">Contact Us</a></li>
+			  </ul>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container-fluid -->
+		</nav>
+	  
+	</section>
+  
+<!--main menu end-->  
+
+<!--menu-images start-->   
+	<section id="menu-images">
+	  <div class="container">
+		  <div class="col-xs-12 col-sm-12 col-md-4" id="about">
+			   <div class="about-img">
+				  <img src="img/womens.jpg" alter="womens"/>
+			   </div>
+				<div class="about-title">
+					<h3> About Us </h3>
+					<a href="#" class="find-out"> find out more </a>
+			
+				</div>
+		  
+		  </div>
+		  <div class="col-xs-12  col-sm-12 col-md-4" id="service">
+			 <div class="service-img">
+				  <img src="img/calculator.png" alter="womens"/>
+			   </div>
+				<div class="service-title">
+					<h3> Our Services </h3>
+					<a href="#" class="find-out"> find out more </a>
+			
+				</div>
+		  </div>
+		  <div class="col-xs-12  col-sm-12 col-md-4" id="testimonial">
+			 <div class="testimonial-img">
+				  <img src="img/comments.jpg" alter="womens"/>
+			   </div>
+				<div class="testimonial-title">
+					<h3> Testimonials </h3>
+					<a href="#" class="find-out"> find out more </a>
+			
+				</div>
+		  </div>
+	  </div>
+	</section>
+<!--menu-images end--> 
+
+<!--slider start-->   
+	<section id="slider">
+		<div class="container">	
+				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+				   
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner" role="listbox">
+					<div class="item active" id="carousel-img">
+					  <img src="img/pencil.jpg" alt="pencil">
+						<h2>Lorem ipsum dolor</h2>
+						<h6>sit amet nullam non</h6>
+					  
+					</div>
+					<div class="item"id="carousel-img">
+					  <img src="img/house.png" alt="...">
+						<h2>Lorem ipsum dolor</h2>
+						<h6>sit amet nullam non</h6>
+					</div>
+					
+				  </div>
+
+				  
+				</div>
+			  </div>
+			</div>
+	</section>
+<!--slider end--> 
+
+
+<!--Latest-news section start-->   
+	<section id="latest">
+	  <div class="container">
+		  <div class="col-xs-12 col-sm-12 col-md-8" id="news">
+			<hr>
+			<h3>Kutter Walters: A fresh approach to Legal Costs</h3>
+			<p>kutter walters legal costs adopts a flexible approach to costing services and is structured to be an extension of your firm.our service is tailored to each of our clients needs and we are able to adopt to the needs of your firm.</p>
+			<h4>High standards maintained</h4>
+			<p>Kutter Walters Legal Costs promotes the high standards endorsed by the Association of Costs Lawyers and endeavours for all costs draftsman to train as costs lawyers. </p>
+			<h4>Tailored charging schemes</h4>
+			<p>We are able to adapt our charging schemes to the needs of your firm. Please contact us to discuss this further. </p>
+
+		  </div>
+		  <div class="col-xs-12  col-sm-12 col-md-4" id="book">
+			<hr>
+			  <h3>Latest news</h3>
+			  <h5>Lorem ipsum dolor sit amet</h5>
+		  
+			   <div class="book-img">
+				  <img src="img/book.jpg" alter="book"/>
+			   </div>
+				<div class="book-title">
+					<p>Pellentesque massa mauris, sollicitudin eu libero ac, interdum euismod enim. Maecenas varius risus non tempor rhoncus. Quisque vitae aliquet ante... </p>
+					<a href="#">continue reading</a>
+					
+			
+				</div>
+				<br>
+				
+				 <h5>Vivamus nullam et sit consectetuer, non!</h5>
+		  
+			   <div class="books-img">
+				  <img src="img/books.jpg" alter="book"/>
+			   </div>
+				<div class="books-title">
+					<p>Pellentesque massa mauris, sollicitudin eu libero ac, interdum euismod enim. Maecenas varius risus non tempor rhoncus. Quisque vitae aliquet ante... </p>
+					<a href="#">continue reading</a>
+			
+				</div>
+				<div class="more">
+					<hr>
+					<h4>more news</h4>
+				</div>
+		  </div>
+		  
+	  </div>
+	</section>
+<!--Latest-news section end-->   
+
+
+<!--footer section start-->   
+	<section id="footer">
+	  <div class="container">
+	  		
+		 <div  id="footer-menu">
+		
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Our Services</a></li>
+				<li><a href="#">Our Directors</a></li>
+				<li><a href="#">Our Cost Drafting Team</a></li>
+				<li><a href="#">Our Support Team</a></li>
+				<li><a href="#">Testimonials</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		
+		 </div>
+		 
+			
+		 
+	  </div>
+	  <p>Copyright 2014 Kutter Walters Legal Costs Ltd | Designed, Promoted & Powered by <a href="#"><u>SearchQuest<u></a></p>
+	</section>
+<!--footer section end--> 
+
+
+
+ #car {
+    position:relative;
+	 margin:0px;
+	 padding:0px;
+	 height:318px;
+}
+
+#car::before{
+    position:absolute;
+    top: 0px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+     background-image: url('../img/backside.jpg');
+    opacity: .2;
+    content: "";
+    z-index: -1;
+	
+}
+
+	 
+
+
+#covered-van{
+	 position:relative;
+	 margin:0px;
+	 padding:0px;
+	
+	
+}
+#covered-van img{
+	position:absolute;
+	top:-20px;
+	 margin:0px;
+	 padding:0px;
+	
+	
+}
+ @media screen and (max-width: 1200px)  { 
+ #covered-van{
+	 position:relative;
+	 margin:0px;
+	 padding:0px;
+	 width:100%;
+	
+	
+ }
+ #lincmark{
+	 margin:0px;
+	 padding:0px;
+	 width:90%;
+	 position:absolute;
+	 top:100px;
+	 
+}
+ #car {
+    position:relative;
+	 margin:0px;
+	 padding:0px;
+	 height:318px;
+}
+
+#car::before{
+    position:absolute;
+    top: 0px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+     background-image: url('../img/backside.jpg');
+    opacity: .2;
+    content: "";
+    z-index: -1;
+	
+}
+
+ }
+#lincmark{
+	 margin:0px;
+	 padding:0px;
+}
+#lincmark img{
+	 margin:0px;
+	 padding:0px;
+}
+
+#welcome h3{
+	color:#363753;
+}
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+	  #lincmark img{
+display: block;
+    margin-left: 200px;
+    margin-right:0px; 
+}
+  #covered-van img{
+display: block;
+    margin-left: 2000px;
+    margin-right: auto;
+}
+
+  }
+  
+  
+  
+  
+  
+   <h3>Quick quote</h3>
+					<form>
+						   <div class="form-group">
+						       <input type="text" class="form-control" placeholder="Your Name">
+						   </div>
+						   <div class="form-group">
+						       <input type="text" class="form-control" placeholder="Your Company">
+						   </div>
+						   <div class="form-group">
+						       <input type="text" class="form-control" placeholder="Your Post Code">
+						   </div>
+						   <div class="form-group">
+						       <input type="phone" class="form-control" placeholder="Your Telephone number">
+						   </div>
+						  <div class="form-group">
+							<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Email">
+						  </div>
+						  <div class="form-group">
+								<div class="input-group">
+								  <input type="text" class="form-control" aria-label="Text input with dropdown button">
+								  <div class="input-group-btn">
+									<button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									  
+									</button>
+									<div class="dropdown-menu dropdown-menu-right">
+									  <a class="dropdown-item" href="#">Action</a>
+									  <a class="dropdown-item" href="#">Another action</a>
+									  <a class="dropdown-item" href="#">Something else here</a>
+									  <div role="separator" class="dropdown-divider"></div>
+									  <a class="dropdown-item" href="#">Separated link</a>
+									</div>
+								  </div>
+								</div>
+							  
+							</div>
+							<div class="form-group"> 
+							
+								<textarea rows="4" cols="50" name="comment">
+									Enter Your Message
+								</textarea>
+							
+							</div>
+		
+						  <button type="submit" class="btn btn-default">Submit</button>
+						</form>
+						
+					
+				</div>
+				
+					<br><br>
+					<img src="img/find.jpg"/>
+					
+					
+					
+					#testimonial-image .contact-image{
+
+  position: relative;
+ width:100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-image: url('../img/form.jpg') no-repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  
+ }
+ 
+ 
+ 
+ 
+ /*ajker*/
+ /*header section css start*/
+#header-section{
+	margin:40px 170px 100px 170px;
+	position:relative;
+}
+#header-title{
+	margin:0px;
+	padding:0px;
+	
+}
+#header-title h3{
+	font-family:Lucida Calligraphy;
+	font-size:17.57px;
+	color:#c00000;
+	margin:0px;
+	padding:0px;
+	padding-top:15px;
+}
+#header-title h5{
+	font-family:Myriad Pro;
+	font-size:17.57px;
+	color:#533518;
+	margin:0px;
+	padding:0px;
+}
+#logo img{
+	margin:0px;
+	padding:0px;
+	margin:0 auto;
+	display:table;
+}
+#contact p{
+	font-family:Myriad Pro;
+	font-size:17.57px;
+	color:#533518;
+	margin:0px;
+	padding:0px;
+	float:right;
+	padding-top:25px;
+}
+#contact h6{
+	font-family:Myriad Pro;
+	font-size:18.5px;
+	color:#533518;
+	margin:0px;
+	padding:0px;
+	float:left;
+	
+}
+@media screen and (max-width: 1300px)  { 
+#contact p{
+		float:left;
+	
+}
+#contact h6{
+	
+	float:left;
+	font-size:17px;
+	
+	
+}
+
+}
+
+@media screen and (max-width: 770px)  { 
+#logo img{
+	margin:0px;
+	padding:0px;
+	padding-top:20px;
+	
+}
+}
+/*header section css end*/
+
+
+/*menu section css start*/
+#menu-section{
+	margin:100px 170px 100px 170px;
+	position:absolute;
+}
+.navbar-default{
+	
+	border:none;
+	margin:0px;
+	padding:0px;
+	background-color:none;
+	
+		
+}
+.navbar-default .navbar-nav {
+	
+	
+	
+	border:none;
+	margin:0px;
+	padding:0px;
+	background-color:none;
+	
+	
+	
+	
+}
+.navbar-default .navbar-nav {
+	
+	
+	
+	border:none;
+	margin:0px;
+	padding:0px;
+	background-color:none;
+	
+	
+}
+
+
+
+
+
+
+
+***today*****
+
+body{
+	padding:0px;
+	margin:0px;
+	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	font-weight:1.4em;
+	position: relative;
+  width: 100%;
+   min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-image: url('../img/backside.jpg') ;
+  background-repeat:no-repeat;
+ 
+  
+}
+/*header section css start*/
+#header-section{
+	margin:40px 160px 20px 160px;
+	
+}
+#header-title{
+	margin:0px;
+	padding:0px;
+	
+}
+#header-title h3{
+	font-family:Lucida Calligraphy;
+	font-size:17.57px;
+	color:#c00000;
+	margin:0px;
+	padding:0px;
+	padding-top:15px;
+}
+#header-title h5{
+	font-family:Myriad Pro;
+	font-size:17.57px;
+	color:#533518;
+	margin:0px;
+	padding:0px;
+}
+#logo img{
+	margin:0px;
+	padding:0px;
+	margin:0 auto;
+	display:table;
+}
+
+#contact p{
+	font-family:Myriad Pro;
+	font-size:17.57px;
+	color:#533518;
+	margin:0px;
+	padding:0px;
+	padding-top:25px;
+	float:right;
+}
+
+#contact h6{
+	font-family:Myriad Pro;
+	font-size:18.2px;
+	color:#533518;
+	margin:0px;
+	padding:0px;
+	float:left;
+	
+    
+}
+@media screen and (max-width: 1350px)  { 
+#contact p{
+		float:left;
+		padding-top:15px;
+	
+}
+#contact h6{
+	
+	float:left;
+	font-size:16px;
+	
+	
+}
+
+}
+
+@media screen and (max-width: 770px)  { 
+#logo img{
+	margin:0px;
+	padding:0px;
+	padding-top:20px;
+	
+}
+
+
+}
+
+
+
+
+/*menu section css start*/
+#menu-section{
+	margin:0px 160px 0px 160px;
+border-bottom:2px dotted #C5AD8B;
+height:58px;
+	
+}/*menu section css end*/
+
+
+/*main-body css start*/
+#main-body{
+	margin:5px 160px 0px 160px;	
+}
+
+@media screen and (max-width: 1200px) { 
+.wrapper{
+	background-color:#F8ECDC;
+	margin:20px 40px 80px 40px;
+}

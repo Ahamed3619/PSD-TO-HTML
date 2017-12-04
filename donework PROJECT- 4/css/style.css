@@ -1,0 +1,325 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	font-weight:1.4em;
+    background-image:url('../img/background.png');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+#header-content{
+	
+	padding-top: 40px;
+	
+}
+
+.phone{
+	float:right;
+	
+}
+.phone img{
+	float:left;
+	padding-right:20px;
+}
+.phone h6{
+	float:right;
+	margin:0px;
+	padding:0px;
+	font-family:Georgia;
+	font-size:18px;
+	padding-right:10px;
+}
+
+.navbar-default{
+	
+	background-color:transparent;
+	border:0;
+	
+		
+}
+.navbar-nav{
+	padding-top:50px;
+	
+	
+}
+.navbar-nav li a{
+	font-family:Raleway;
+	font-size:14px;
+	
+	
+}
+.content-image {
+	
+	
+	background-image:url('../img/house.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding-top:40px;
+	padding-bottom:600px;
+	padding-left:20px;
+	padding-right:20px;
+	
+	
+}
+
+#paragraph{
+	
+	background-color:#f1f1f2;
+	padding-bottom:40px;
+	
+	
+}
+#paragraph h5{
+	color:#821619;
+	font-family:Raleway;
+	font-size:21px;
+	padding:30px 10px 30px 10px;
+	
+}
+#paragraph p{
+	color:#16351d;
+	font-family:Myriad Pro;
+	font-size:12.5px;
+	padding:0px 10px 70px 10px;
+	
+}
+#paragraph a{
+	padding:10px 15px 10px 15px;
+	background-color:#285b2f;
+	font-family:Raleway;
+	font-size:20px;
+	color:white;
+	text-decoration:none;
+}
+
+#all-images img{
+	width:377px;
+}
+@media screen and (max-width: 1200px )  { 
+
+#all-images img{
+	width:100%;
+	
+}
+
+}
+.footer-one{
+	background-color:#f4f4f6;
+	
+	padding:10px 0px 10px 0px;
+}
+#icon-contents{
+	margin:0px;
+	padding:0px;
+}
+
+#footer-images{
+	margin:0px;
+	padding:0px;
+	
+}
+.footer-img{
+	
+	float:right;
+}
+
+.footer-img img{
+	
+	padding-right:10px;
+}
+.footer-img .last{
+	
+	padding-right:0px;
+}
+
+@media screen and (max-width: 1100px )  { 
+
+.footer-img{
+	
+	float:left;
+}
+
+}
+#icon-contents p{
+    color:#16351d;
+	font-family:Myriad Pro;
+	font-size:14px;
+}
+#icon-contents h6{
+    color:#16351d;
+	font-family:Myriad Pro;
+	font-size:16px;
+}
+.copyright p{
+	padding-top:20px;
+	padding-bottom:10px;
+	color:#97989a;
+	font-family:Myriad Pro;
+	font-size:11px;
+}
+
+#full-content{
+	background-image:url('../img/Internal.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:0px 0px 10px 0px;
+
+}
+#full-content hr{
+	margin:0px;
+	padding:0px;
+	border-color:#99282b;
+	border-width:2px;
+	
+}
+.ajib{
+	float:right;
+}
+@media screen and (max-width: 768px )  { 
+
+.ajib{
+	float:left;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+
+}
+#Rooms h5{
+	color:#99282b;
+	font-family:Raleway;
+	font-size:21px;
+	margin:0px;
+	padding:0px;
+	
+}
+.ajib a{
+	padding:5px 8px 5px 8px;
+	background-color:#285b2f;
+	font-family:Raleway;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	
+}
+#first-section{
+	padding-top:30px;
+	
+}
+#collapse-one p {
+	float:left;
+	font-family:Raleway;
+	font-size:21px;
+	color:white;
+	padding-top:5px;
+	
+}#collapse-one img{
+	
+	padding-top:10px;
+	
+}
+#collapse-one  {
+	padding-top:5px;
+	padding-bottom:5px;
+	background-color:#285b2f;
+	border-bottom:4px solid #075318;
+	
+}
+#second-section{
+	padding-top:30px;
+	padding-left:26px;
+	padding-right:28px;
+	
+	
+}
+#collpse-paragraph p{
+	font-family:Myriad Pro;
+	font-size:14px;
+	color:#16351d;
+}
+#collapse-two{
+	padding-top:20px;
+	background-image:url('../img/Internal.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding-bottom:40px;
+}
+.list-content li{
+	font-family:Myriad Pro;
+	font-size:14px;
+	color:#16351d;
+	
+}
+.list-content {	
+    margin:0px;
+	padding:0px;
+	padding-left:15px;
+}
+#collpse-images img{
+	padding-left:15px;
+}
+@media screen and (max-width: 1200px )  { 
+
+#collpse-images img{
+	width:130px;
+	margin:0px;
+	padding:0px;
+	
+}
+
+}
+.price{
+	background-color:#dde5df;
+	border:0;
+	border-bottom:2px solid #d0d5d1;
+	margin-bottom:7px;
+}
+.prices{
+	background-color:#dde5df;
+	border:0;
+	margin-left:8px;
+	margin-bottom:7px;
+	border-bottom:2px solid #d0d5d1;	
+}
+.price h6{
+	
+	font-family:Myriad Pro;
+	font-size:20px;
+	color:#16351d;
+	margin:0px;
+	padding:5px 0px 0px 0px;
+	
+	
+}
+.prices h6{
+	
+	font-family:Myriad Pro;
+	font-size:20px;
+	color:#16351d;
+	margin:0px;
+	padding:5px 0px 0px 0px;
+	
+	
+}
+.price p{
+	
+	font-family:Myriad Pro;
+	font-size:12px;
+	color:#16351d;
+	margin:0px;
+	padding:0px 5px 0px 5px;
+	
+	
+	
+}
+.prices p{
+	
+	font-family:Myriad Pro;
+	font-size:12px;
+	color:#16351d;
+	margin:0px;
+	padding:0px 15px 0px 15px;
+	
+	
+	
+}

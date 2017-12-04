@@ -1,0 +1,556 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	font-weight:1.4em;
+	
+	
+}
+/*tiny header css start*/
+.tiny-header{
+	background-color:#443E40;
+	
+}
+.top-header{
+	float:right;
+}
+.phone-img{
+	float:left;
+	
+    padding-top:27px;	
+    padding-bottom:10px;	
+}
+.phone-title{
+	float:right;
+	color:#FFFDFF;
+	padding-top:20px;	
+    padding-bottom:10px;
+	padding-left:10px;
+	
+}
+.call-us{
+	font-family:Myriad Pro;
+	font-size:15px;
+	font-style:Regular;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	word-spacing:2px
+	
+}
+.phone-number{
+	font-family:Myriad Pro;
+	font-size:24px;
+	font-style:Regular;
+	
+}
+/*tiny header css end*/
+
+
+/*main menu css start*/
+
+#menu{
+	background-color:#443E40;
+	
+	
+}
+ .navbar-default{
+	 background-color:#443E40;
+	 border:none;
+	 margin-bottom:0px;
+	
+	 
+	 
+ }
+ .navbar-default .navbar-nav  li a {
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:15px;
+	 padding-right:40px;
+	
+	 
+ }
+ .navbar-default .navbar-nav  li .last {
+
+	 padding-right:0px;
+	
+	 
+ }
+  .navbar-default .navbar-nav hr {
+
+	
+	border-color: #B92034;
+	border-width: 5px;
+	max-width:85px;
+	margin:0px;
+	margin-left:14px;
+	 
+ }
+ 
+.navbar-nav  .dropdown-menu{
+	background-color:#443E40;
+	top:95%;
+	left:0;
+	position:absolute;
+	width:250px;
+	
+}
+.navbar-nav  .dropdown-menu li a{
+	margin-left:5px;
+	margin-right:5px;
+	
+		
+}
+
+/*main menu css end*/
+
+/*menu-images css start*/
+ 
+#menu-images{
+	background-color:#E5E1DE;
+	padding:20px 0px 20px 0px;
+	
+	
+}
+@media screen and (max-width: 1000px)  { 
+#about{
+		
+	
+		
+}
+#service{
+		
+margin-top:	20px;
+		
+}
+#testimonial{
+		
+margin-top:	20px;
+
+		
+}
+
+
+}
+
+.about-img{
+	float:left;
+	background-color:#FFFFFF;
+    margin:0px;
+	padding:0px;
+	
+	
+	
+		
+
+}
+.service-img{
+	float:left;
+	background-color:#FFFFFF;
+    margin:0px;
+	padding:0px;
+	
+	
+	
+}
+.testimonial-img{
+	float:left;
+	background-color:#FFFFFF;
+    margin:0px;
+	padding:0px;
+	
+	
+	
+
+}
+.about-title{
+	background-color:#FFFFFF;
+	padding:2px 0px 16px 130px;
+	text-decoration:none;
+	
+
+}
+.about-title a{
+	color:#C03646;
+	text-decoration:none;
+	margin:0px;
+	padding:0px;
+
+}
+.service-title{
+    background-color:#FFFFFF;
+	
+    padding:2px 0px 16px 130px;
+}
+.service-title a{
+	color:#C03646;
+	text-decoration:none;
+	margin:0px;
+	padding:0px;
+	
+
+}
+.testimonial-title{
+	background-color:#FFFFFF;
+	
+	padding:2px 0px 16px 130px;
+	
+}
+.testimonial-title a{
+	color:#C03646;
+	text-decoration:none;
+	margin:0px;
+	padding:0px;
+
+}
+/*Menu images css end*/
+
+
+/*slider css start*/
+
+#slider{
+	background-color:#E2DEDB;
+	padding:8px 0px 12px 0px;
+}
+#carousel-img img{
+	width:100%;
+	padding:0px 12px 0px 12px;
+	position:relative;
+}
+
+#carousel-img h2 {
+	position:absolute;
+	top:0px;
+	margin-left:50px;
+	font-family:Myriad Pro;
+	font-size:48px;
+	color:#FFFCF8;
+	background-color:#C03646;
+	padding:20px;
+	
+}
+#carousel-img h6 {
+	position:absolute;
+	top:80px;
+	margin-left:50px;
+	font-family:Myriad Pro;
+	font-size:30px;
+	color:#FFFCF8;
+	background-color:#C03646;
+	padding:20px;
+	font-style:Regular;
+	
+}
+/*slider css end*/
+
+/*latest section left side css start*/
+#latest{
+	background-color:#443E40;
+	color:white;
+
+}
+#news hr{
+	margin:0px;
+	padding:0px;
+	border-color: #B92034;
+	border-width: 7px; 
+}
+#news p{
+	font-family:Myriad Pro;
+	font-size:13px;
+	font-style:regular;
+	padding:0px 0px 10px 0px;
+	word-spacing:2px;
+}
+#news  h3{
+	font-family:Myriad Pro;
+	font-size:28px;
+	font-style:regular;
+	padding:10px 0px 10px 0px;
+}
+#news h4{
+	font-family:Myriad Pro;
+	font-size:22px;
+	font-style:regular;
+	padding:0px;
+	margin:0px;
+	
+}
+/*latest section left side css end*/
+
+/*latest section right side css start*/
+#book hr{
+	margin:0px;
+	padding:0px;
+	border-color: #B92034;
+	border-width: 7px; 
+}
+#book h3{
+	font-family:Myriad Pro;
+	font-size:28px;
+	font-style:regular;
+}
+#book h5{
+	font-family:Myriad Pro;
+	font-size:15px;
+	font-style:regular; 
+}
+.book-img{
+	float:left;
+	padding-right:10px;
+}
+.book-title p{
+	font-family:Myriad Pro;
+	font-size:13px;
+	font-style:regular;
+}
+.book-title a{
+	font-family:Myriad Pro;
+	font-size:12px;
+	font-style:regular;
+	text-decoration:none;
+	color:#989294;
+	
+}
+.books-img{
+	float:left;
+	padding-right:10px;
+}
+.books-title p{
+	font-family:Myriad Pro;
+	font-size:13px;
+	font-style:regular;
+}
+.books-title a{
+	font-family:Myriad Pro;
+	font-size:12px;
+	font-style:regular;
+	text-decoration:none;
+	color:#989294;
+	
+}
+.more{
+	margin-top:30px;
+	padding-bottom:20px;
+}
+.more hr{
+	
+	border-color: #B92034;
+	border-width: 7px; 
+	max-width:130px;
+}
+.more h4{
+	
+	font-family:Myriad Pro;
+	font-size:22px;
+	font-style:regular;
+}
+/*latest section right side css end*/
+
+
+/*footer section  css start*/
+
+
+
+#footer{
+	background-color:#DEDAD7;
+	padding:30px 0px 30px 0px;
+}
+#footer-menu ul li{
+	list-style:none;
+	float:left;
+	border-right:1px solid #676360;
+	padding-right:5px;
+	padding-left:5px;
+	
+	
+}
+#footer-menu {
+	margin:0 auto;
+	display:table;
+	
+	
+}
+
+
+
+#footer-menu ul li:last-child{
+	border:none;
+	padding-right:0px;
+	
+	
+	
+}
+	
+#footer-menu ul li a{
+	text-decoration:none;
+	color:#676360;
+	font-family:Myriad Pro;
+	font-size:12px;
+	font-style:regular;
+	text-align:center;
+	
+
+}
+
+
+#footer p{
+	padding-top:10px;
+	text-align:center;
+	font-family:Myriad Pro;
+	font-size:12px;
+	font-style:regular;
+	color:#676360;
+	padding-left:30px;
+}
+#footer p a{
+	
+	color:#995761;
+	text-decoration:none;
+}
+/*footer section  css end*/
+
+
+
+
+/*Start    Start    start    Start    start     start*/	
+
+
+
+/*css for internal page start*/
+
+
+/*css for left side director section start*/
+.contain{
+	background-color:white;
+}
+#director{
+	background-color:#443E40;
+	color:black;
+	
+
+}
+
+
+#member hr{
+	margin:0px;
+	padding:0px;
+	border-color: #B92034;
+	border-width: 7px;
+	
+}
+#member p{
+	font-family:Myriad Pro;
+	font-size:13px;
+	font-style:regular;
+	padding:0px 0px 10px 0px;
+	word-spacing:4px;
+}
+#member h3{
+	font-family:Myriad Pro;
+	font-size:28px;
+	font-style:regular;
+	margin:0px;
+	padding-top:20px;
+	padding-bottom:10px;
+	
+	
+}
+#member h6{
+	font-family:Myriad Pro;
+	font-size:13px;
+	font-style:regular;
+	color:#b92033;
+	padding:0px;
+	padding-bottom:20px;
+	margin:0px;
+	
+}
+
+.karen-img{
+	float:left;
+	padding-right:40px;
+	
+}
+.karen-titles h4{
+	font-family:Myriad Pro;
+	font-size:26px;
+	font-style:regular;
+	padding:0px;
+	margin:0px;
+	
+	
+}
+
+
+/*css for left side director section end*/
+
+/*css for right side director section start*/
+
+
+#again-book hr{
+	margin:0px;
+	padding:0px;
+	border-color: #B92034;
+	border-width: 7px; 
+}
+#again-book h3{
+	font-family:Myriad Pro;
+	font-size:28px;
+	font-style:regular;
+}
+#again-book h5{
+	font-family:Myriad Pro;
+	font-size:15px;
+	font-style:regular; 
+}
+.book-imag{
+	float:left;
+	padding-right:10px;
+}
+.book-titles p{
+	font-family:Myriad Pro;
+	font-size:13px;
+	font-style:regular;
+}
+.book-titles a{
+	font-family:Myriad Pro;
+	font-size:12px;
+	font-style:regular;
+	text-decoration:none;
+	color:#989294;
+	
+}
+.books-imag{
+	float:left;
+	padding-right:10px;
+}
+.books-titles p{
+	font-family:Myriad Pro;
+	font-size:13px;
+	font-style:regular;
+}
+.books-titles a{
+	font-family:Myriad Pro;
+	font-size:12px;
+	font-style:regular;
+	text-decoration:none;
+	color:#989294;
+	
+}
+.mores{
+	margin-top:30px;
+	padding-bottom:20px;
+}
+.mores hr{
+	
+	border-color: #B92034;
+	border-width: 7px; 
+	max-width:130px;
+}
+.mores h4{
+	
+	font-family:Myriad Pro;
+	font-size:22px;
+	font-style:regular;
+}
+/*director section right side css end*/

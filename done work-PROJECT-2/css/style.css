@@ -1,0 +1,362 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	font-weight:1.4em;
+}
+/* header section css start*/
+#header{
+	background-color:#29395D;
+	
+}
+.navbar-default{
+	background-color:#29395D;
+	border:none;
+	margin:0px;
+	padding:0px;
+	
+	
+}
+.navbar-default img{
+	padding-top:20px;	
+	padding-bottom:20px;	
+}
+.navbar-default .navbar-nav  li {
+	
+	 padding:40px 25px 40px 0px;
+		 
+ }
+ .navbar-default .navbar-nav  li :last-child{
+	
+	 padding-right:0px;
+		 
+ }
+.navbar-default .navbar-nav  li a {
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:14px;
+	
+		 
+ }
+ 
+ .navbar-default .navbar-nav   .actives{
+	background-color:#2C436F;
+	padding-left:8px;
+
+ }
+ /* header section css end*/
+ 
+ 
+ /* offer section css start*/
+ 
+
+ #phone p{
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:32px;
+	 color:#313950;
+	 padding:20px 158px 20px 158px;
+	 margin:0px;
+	
+	
+	 
+ }
+ 
+ @media screen and (max-width: 1200px)  { 
+  #phone p{
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:32px;
+	 color:#313950;
+	padding:20px 60px 20px 60px;
+	margin:0px;
+	
+	
+	 
+ }
+ }
+ /* offer section css end*/
+ 
+ 
+ /* car section css start*/
+#car{
+	background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(255, 255, 255, 0.8), 
+      rgba(255, 255, 255, 0.8)
+    ),
+    /* bottom, image */
+    url(../img/backside.jpg);
+	
+}
+
+  @media screen and (max-width: 1200px)  { 
+  #lincmark{
+	 margin:1px;
+	
+	
+	 
+ }
+ }
+ 
+
+/* car section css end*/
+
+/* welcome section css start*/
+#welcome-para{
+	padding:30px 0px 30px 110px;
+}
+
+#welcome-para h3{
+	font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:30px;
+	 color:#273a5e;
+	
+}
+#welcome-para h6{
+	font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:18px;
+	 color:#767C8A;
+	
+}
+#welcome-para p{
+	font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:14px;
+	 color:#273a5e;
+	
+}
+
+@media screen and (max-width: 1200px)  { 
+  #welcome-para{
+	padding:30px 0px 30px 0px;
+}
+ }
+
+ /* welcome section css end*/
+ 
+ 
+ /* all-image section  css start*/
+#one-gallery{
+	margin-top:20px;
+	margin-bottom:20px;
+	padding-left:50px;
+}
+#two-gallery{
+	margin:0px;
+	padding-left:50px;
+}
+@media screen and (max-width: 1000px)  { 
+  #news{
+	padding:20px 0px 0px 15px;
+}
+}
+@media screen and (max-width: 1200px)  { 
+#one-gallery{
+	
+	padding-left:0px;
+}
+#two-gallery{
+	margin:0px;
+	padding-left:0px;
+}
+ }
+ /* all-image section  css end*/
+ 
+ 
+ /* footer section  css start*/
+ #footer{
+	 background-color:#29395D;
+ }
+ #footer-menu ul li{
+	 list-style:none;
+	 
+ }
+ #footer-menu ul li a{
+	 text-decoration:none;
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:12px;
+	 
+	 
+ }
+ #footer-menu ul {
+	
+	 margin:0px;
+	 padding:0px;
+ }
+ #footer-menu h5 {
+	
+	 text-decoration:none;
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:18px;
+	 color:white;
+ }
+ #footer-contact ul li{
+	 list-style:none;
+	 font-size:14px;
+ }
+ #footer-contact ul {
+	 margin:0px;
+	 padding:0px;
+ }
+ #footer-contact h5{
+	 text-decoration:none;
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:18px;
+	 color:white;
+ }
+ #footer-contact ul li a{
+	 text-decoration:none;
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 
+	 
+	 
+ }
+ #social-image h5{
+	 text-decoration:none;
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:18px;
+	 color:white;
+ }
+ /* footer section  css end*/
+ 
+ /* last-footer section  css start*/
+ #last-footer p{
+	 margin:0 auto;
+	 display:table;
+	 color:#273a5e;
+	 padding:20px 0px 20px 0px;
+ }
+ /* last-footer section  css end*/
+ 
+ 
+ 
+ /* internal page  css start*/
+ 
+ 
+ 
+ 
+ 
+ /* last-footer section  css end*/
+ 
+ #testimonial{
+	 background-color:#f0f0f0;
+	 padding:30px 0px 20px 0px;
+ }
+ #testimonial-content{
+	  background-color:#ffffff;
+	  padding:30px 0px 40px 50px;
+	 
+ }
+ 
+ @media screen and (max-width: 1200px)  {
+ 
+ #testimonial-paragraph{
+	 margin:0px 0px 0px 0px
+ }
+ #testimonial-content{
+	 
+	  padding:30px 0px 40px 40px;
+	 
+ }
+ 
+ }
+ #testimonial-paragraph h3{
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:30px;
+	 color:#273a5e;
+ }
+ .free{
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:14px;
+	 color:#273a5e;
+	 padding-bottom:30px;
+ }
+.lincmark-one{
+	 font-family:Myriad Pro;90px;
+	 font-style:Regular;
+	 font-size:16px;
+	 color:#273a5e;
+	 padding:20px;
+	 background-color:#eef2fa;
+ }
+ .lincmark-two{
+	 font-family:Myriad Pro;
+	 font-style:Regular;
+	 font-size:16px;
+	 color:#273a5e;
+	 padding:20px;
+	 
+ }
+ .lincmark-three{
+	 font-family:Roboto LightItalic;
+	 font-style:Regular;
+	 font-size:17px;
+	 color:#273a5e;
+	 padding:20px;
+	 background-color:#eef2fa;
+ }
+ 
+  .lincmark-four{
+	 font-family:Roboto Bold;
+	 font-style:Regular;
+	 font-size:17px;
+	 color:#273a5e;
+	 padding:20px;
+	 
+ }
+.contact-forms{
+background-image:url('../img/form.jpg');
+background-repeat: no-repeat;
+margin-left:20px;
+ }
+ .contact-forms h3{
+ font-family:Roboto LightItalic;
+font-style:Regular;
+font-size:26px;
+padding: 5px 0px 0px 45px;
+color:white;
+
+ }
+ 
+ .contact-forms input{
+width:220px;
+height:25px;
+margin-left:7px;
+margin-bottom:3px;
+
+ }
+ .contact-forms textarea {
+
+width:220px;
+margin-left:7px;
+color:gray;
+margin-top:3px;
+ }
+ 
+ .input-group{
+width:227px;
+height:25px;
+
+ }
+ .ajib input{
+	 width:150px;
+	 float:left;
+	 margin-bottom:3px;
+	 
+ }
+ .ajib img{
+	 padding-left:4px;
+	 margin-bottom:3px;
+ }
+ 

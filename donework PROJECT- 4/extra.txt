@@ -1,0 +1,106 @@
+<section class="major-content">
+		<div class="container"id="full-content" >
+			<hr>
+		  <div class="room-booking">
+				<div class="col-xs-12  col-sm-7 col-md-6" id="Rooms"> 
+					<h5> A warm and friendly welcome </h5>
+					
+				</div>
+				<div class="col-xs-12  col-sm-5 col-md-6" id="booking" > 
+					<a href="#">Book Now</a>
+				</div>
+		  </div>
+		  
+			<div class="header-contents">
+				<div class="col-xs-12  col-sm-7 col-md-6" id="cwrt"> 
+				 <p>Cwrt Celyn</p>
+				
+				</div>
+				<div class="col-xs-12  col-sm-5 col-md-6" id="icon" > 
+					<a data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+						<img src="img/circle-down.png" alt=""  />
+					 </a>
+				</div>
+			 
+			  
+			  
+			</div>
+			<div class="collapse" id="collapseExample">
+			  <div class="card card-block">
+				Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+			  </div>
+			</div>
+		  
+			
+		</div>
+	</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	#full-content{
+	background-image:url('../img/Internal.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:0px 0px 10px 0px;
+	margin-bottom:20px;
+}
+#full-content hr{
+	margin:0px;
+	padding:0px;
+	border-color:#99282b;
+	border-width:2px;
+	
+}
+#Rooms h5{
+	color:#99282b;
+	font-family:Raleway;
+	font-size:21px;
+	margin:0px;
+	padding:0px;
+	
+}
+#booking a{
+	padding:5px 8px 5px 8px;
+	background-color:#285b2f;
+	font-family:Raleway;
+	font-size:13px;
+	color:white;
+	text-decoration:none;
+	float:right;
+}
+#Rooms{
+	
+}
+#booking{
+	
+}
+.room-booking{
+	padding-top:10px;
+}
+
+.header-contents{
+	background-color:#285b2f;
+	padding-top:10px;
+	
+}
+#cwrt p{
+	font-family:Raleway;
+	font-size:21px;
+	color:white;
+	
+}
+#icon a{
+	float:right;
+}
